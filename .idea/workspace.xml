@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb072b45-89f3-457c-b9b9-af80ef833876" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\work_jugal\BusinessToolkit\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pbjbHWdcHKZcW6oreGfgr5M6CF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/examples/16_SONO_CHE34R52C/Sion_SVC20_CHE34R52C_01V042" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="BusinessToolkit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples/16_SONO_CHE34R52C/Sion_SVC20_CHE34R52C_01V042" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="YAML\01_picture_battery_strain.yaml" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="BusinessToolkit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples/16_SONO_CHE34R52C/Sion_SVC20_CHE34R52C_01V042" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="YAML\01_picture_battery_strain.yaml" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb072b45-89f3-457c-b9b9-af80ef833876" name="Default Changelist" comment="" />
+      <created>1615458753587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615458753587</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Update Software Structure">
+      <created>1615459912306</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615459912306</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="software_structure" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="me" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="software_structure" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="me" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Update Software Structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Software Structure" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="309" y="65" width="1300" height="855" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615461419344">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="309" y="65" width="1300" height="855" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.920/-2560.0.1707.920@0.0.1707.920" timestamp="1615461419344" />
+    <state x="361" y="0" key="CommitChangelistDialog2" timestamp="1615459911824">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="361" y="0" key="CommitChangelistDialog2/0.0.1707.920/-2560.0.1707.920@0.0.1707.920" timestamp="1615459911824" />
+    <state x="690" y="191" key="FileChooserDialogImpl" timestamp="1615461353326">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="690" y="191" key="FileChooserDialogImpl/0.0.1707.920/-2560.0.1707.920@0.0.1707.920" timestamp="1615461353326" />
+    <state x="352" y="105" key="RollbackChangesDialog" timestamp="1615461789814">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="352" y="105" key="RollbackChangesDialog/0.0.1707.920/-2560.0.1707.920@0.0.1707.920" timestamp="1615461789814" />
+    <state x="346" y="115" key="Vcs.Push.Dialog.v2" timestamp="1615459914065">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="346" y="115" key="Vcs.Push.Dialog.v2/0.0.1707.920/-2560.0.1707.920@0.0.1707.920" timestamp="1615459914065" />
+    <state x="551" y="359" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615460286793">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="551" y="359" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1707.920/-2560.0.1707.920@0.0.1707.920" timestamp="1615460286793" />
+  </component>
+</project>

@@ -1,0 +1,4 @@
+- name: print task2
+  print_warning: "print output2: {{ var2 }}"
+- name: print task3
+  print_warning: "print output3: {{ var4 }}"

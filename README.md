@@ -1,3 +1,6 @@
-# Learn_Python
-First GitHub Project
-print ("Hello World!")
+# Business Toolkit
+
+## Software Structure
+
+![Software Structure](software_structure.png)
+
